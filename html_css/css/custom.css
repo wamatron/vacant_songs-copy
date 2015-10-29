@@ -1,6 +1,22 @@
 /* this is a custom css stylesheet */
 h1 {
   text-align: center;
-  font-family: lucida;
+  font-family: 'Poiret One';
   margin-top: 50px;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-family: 'Poiret One';
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Poiret One';
 }
